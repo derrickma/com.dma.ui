@@ -1,0 +1,10 @@
+﻿{
+    "name": "com.dma.ui",
+    "version": "0.0.1",
+    "displayName": "Dma's Unity UI Package",
+    "description": "This is UI package for Unity",
+    "unity": "2022.3",
+    "author": {
+        "name": "Derrick Ma"
+    }
+}
